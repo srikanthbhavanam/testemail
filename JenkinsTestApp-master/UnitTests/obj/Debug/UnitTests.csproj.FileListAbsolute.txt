@@ -1,0 +1,5 @@
+C:\Works\JenkinsTestApp\UnitTests\bin\Debug\UnitTests.dll
+C:\Works\JenkinsTestApp\UnitTests\bin\Debug\UnitTests.pdb
+C:\Works\JenkinsTestApp\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Works\JenkinsTestApp\UnitTests\obj\Debug\UnitTests.dll
+C:\Works\JenkinsTestApp\UnitTests\obj\Debug\UnitTests.pdb
